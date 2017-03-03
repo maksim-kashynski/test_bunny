@@ -1,0 +1,4 @@
+[submodule "branch1"]
+	path = branch1
+	url = https://github.com/maksim-kashynski/test_bunny.git
+	branch = branch1
